@@ -40,6 +40,10 @@ Designed a real-time encrypted data transmission system using lightweight crypto
 > *Arduino | Ultrasonic Sensor | C++ | Bluetooth Module*  
 Developed a smart robot capable of autonomous navigation and real-time control via voice and Bluetooth, enhancing interactive robotics learning.
 
+### Email Spoof Detection Tool
+ > *Python | Regex | Colorama | EmailSecurity | Protocols (SPF, DKIM, DMARC)
+ Built a Python command-line tool that parses email headers to analyze SPF, DKIM, and DMARC authentication results and detect spoofing attempts. The tool provides clear color-coded terminal outputs
+ to help users verify email legitimacy, assisting in phishing detection and cybersecurity awareness.
 ---
 
 ### 📜 Certifications
