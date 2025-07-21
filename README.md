@@ -21,49 +21,51 @@
 
 ### 🛠️ Technical Skills
 
-- **Languages**: Python, C, Java, Embedded C
-- **Cybersecurity**: Web App Security, Vulnerability Assessment (OWASP Top 10), SOC Fundamentals, IoT Security, Digital Forensics (Basic)
-- **Tools**: Burp Suite, OWASP ZAP, Nmap, Nikto, SQLmap, Metasploit, Hydra, John the Ripper, Wireshark, Recon-ng, LinPEAS
-- **Platforms**: Arduino, ESP32, Windows, Ubuntu, Kali Linux
-- **Dev Tools**: VS Code, GitHub, Arduino IDE, MySQL
+- **Languages**: Python, C, Java, Embedded C  
+- **Cybersecurity**: Web App Security, Vulnerability Assessment (OWASP Top 10), SOC Fundamentals, IoT Security, Digital Forensics (Basic)  
+- **Tools**: Burp Suite, OWASP ZAP, Nmap, Nikto, SQLmap, Metasploit, Hydra, John the Ripper, Wireshark, Recon-ng, LinPEAS  
+- **Platforms**: Arduino, ESP32, Windows, Ubuntu, Kali Linux  
+- **Dev Tools**: VS Code, GitHub, Arduino IDE, MySQL  
 - **Soft Skills**: Critical Thinking, Team Collaboration, Scripting & Automation, Time Management
 
 ---
 
 ### 📂 Projects
 
-#### 🔐 Secure Data Encryption for IoT Devices
+#### 🔐 Secure Data Encryption for IoT Devices  
 > *ESP32 | AES | Speck | Embedded C | Arduino IDE*  
 Designed a real-time encrypted data transmission system using lightweight cryptographic algorithms on constrained IoT hardware. Demonstrated secure communication using sensor data.
 
-#### 🤖 Voice & Bluetooth Controlled Obstacle-Avoiding Robot
+#### 🤖 Voice & Bluetooth Controlled Obstacle-Avoiding Robot  
 > *Arduino | Ultrasonic Sensor | C++ | Bluetooth Module*  
 Developed a smart robot capable of autonomous navigation and real-time control via voice and Bluetooth, enhancing interactive robotics learning.
 
-### Email Spoof Detection Tool
- > *Python | Regex | Colorama | EmailSecurity | Protocols (SPF, DKIM, DMARC)
- Built a Python command-line tool that parses email headers to analyze SPF, DKIM, and DMARC authentication results and detect spoofing attempts. The tool provides clear color-coded terminal outputs
- to help users verify email legitimacy, assisting in phishing detection and cybersecurity awareness.
+#### 📧 Email Spoof Detection Tool  
+> *Python | Regex | SPF, DKIM, DMARC | Terminal UI*  
+Developed a command-line tool that analyzes email headers to detect spoofing attempts by checking SPF, DKIM, and DMARC fields.  
+Features colored terminal output, detailed mismatch detection, and real-world test cases for validation.  
+**Skills demonstrated**: Email security protocols, header parsing, regex, cybersecurity automation.
+
 ---
 
 ### 📜 Certifications
 
-- 🛡️ **Cybersecurity** – JPMorgan Chase
-- 🧠 **Ethical Hacking** – Cisco
-- 🔐 **Google Cybersecurity Professional Certificate** – Coursera
-- 🧮 **Data Structures & Algorithms** – CodeChef
+- 🛡️ **Cybersecurity** – JPMorgan Chase  
+- 🧠 **Ethical Hacking** – Cisco  
+- 🔐 **Google Cybersecurity Professional Certificate** – Coursera  
+- 🧮 **Data Structures & Algorithms** – CodeChef  
 - 🌐 **NPTEL** – The Joy of Computing Using Python *(Elite)*  
-- 📡 **NPTEL** – Introduction to IoT *(Elite + Silver)*
+- 📡 **NPTEL** – Introduction to IoT *(Elite + Silver)*  
 - ☁️ **ServiceNow Micro-Certification** – On-Demand Fundamentals
 
 ---
 
 ### 🏆 Achievements & Highlights
 
-- 📝 Published research on **Machine Learning and Deep Learning Methods for Cybersecurity**
-- 📄 Authored a paper on **Recent Developments in the Domain Name System**
-- 💬 Participant – **Y20 Debate on Global Cybersecurity Threats**
-- 🖥️ Attendee – **NVIDIA Webinar on AI, ML & Data Science**
+- 📝 Published research on **Machine Learning and Deep Learning Methods for Cybersecurity**  
+- 📄 Authored a paper on **Recent Developments in the Domain Name System**  
+- 💬 Participant – **Y20 Debate on Global Cybersecurity Threats**  
+- 🖥️ Attendee – **NVIDIA Webinar on AI, ML & Data Science**  
 - 💡 Finalist – **SAP State Hub Hackathon @ MITE**
 
 ---
@@ -79,8 +81,8 @@ Developed a smart robot capable of autonomous navigation and real-time control v
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nihalshetty0814)
-- 🧑‍💻 [GitHub](https://github.com/nihal0814)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nihalshetty0814)  
+- 🧑‍💻 [GitHub](https://github.com/nihal0814)  
 - 📬 Email: nihalshetty.0814@gmail.com
 
 ---
