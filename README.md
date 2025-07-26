@@ -46,6 +46,12 @@ Developed a command-line tool that analyzes email headers to detect spoofing att
 Features colored terminal output, detailed mismatch detection, and real-world test cases for validation.  
 **Skills demonstrated**: Email security protocols, header parsing, regex, cybersecurity automation.
 
+#### 🌐 **Network Intrusion Detection System (NIDS) using Machine Learning**  
+> *Python | Scikit-learn | NSL-KDD Dataset | Random Forest | PCAP Analysis*  
+Built a machine learning-based intrusion detection system that trains on the NSL-KDD dataset to classify network traffic as normal or malicious.  
+The system can also process real `.pcapng` network captures to detect intrusions in real-time.  
+**Skills demonstrated**: ML model training, feature engineering, cybersecurity data analysis.
+
 ---
 
 ### 📜 Certifications
