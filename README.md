@@ -1,82 +1,164 @@
-<h1 align="center">Hi there 👋 I'm Nihal Shetty</h1>
-<h3 align="center">Cybersecurity | IoT | Blockchain | Ethical Hacker in Progress</h3>
+<h1 align="center">Hi there 👋, I'm Nihal Shetty</h1>
+
+<h3 align="center">
+Computer Science & Engineering Graduate | Technical Support | IoT | Cybersecurity
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nihalshetty0814/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
-  <a href="https://github.com/nihal0814"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:nihalshetty.0814@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nihalshetty0814">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nihal0814">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="mailto:nihalshetty.0814@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Final-year Computer Science Engineering student at **Alva’s Institute of Engineering & Technology**, specialized in **IoT, Cybersecurity, and Blockchain**.
-
-🔐 Passionate about **ethical hacking**, **web application security**, **lightweight cryptography**, and **threat analysis**.
-
-🎯 Actively seeking an **entry-level role in SOC, VAPT, or Cybersecurity** where I can contribute to defending systems and solving real-world security problems.
-
----
-
-### 🛠️ Technical Skills
-
-- **Languages**: Python, C, Java, Embedded C  
-- **Cybersecurity**: Web App Security, Vulnerability Assessment (OWASP Top 10), SOC Fundamentals, IoT Security, Digital Forensics (Basic)  
-- **Tools**: Burp Suite, OWASP ZAP, Nmap, Nikto, SQLmap, Metasploit, Hydra, John the Ripper, Wireshark, Recon-ng, LinPEAS  
-- **Platforms**: Arduino, ESP32, Windows, Ubuntu, Kali Linux  
-- **Dev Tools**: VS Code, GitHub, Arduino IDE, MySQL  
-- **Soft Skills**: Critical Thinking, Team Collaboration, Scripting & Automation, Time Management
+- 🎓 Computer Science and Engineering graduate specializing in **IoT, Cybersecurity, and Blockchain Technology**.
+- 💼 Currently working as **Technical Support – Operations at UnifyCX, Mangaluru**.
+- 🛠️ Interested in technology, troubleshooting, problem-solving, and building practical solutions.
+- 🔐 Hands-on experience in **cybersecurity, SOC operations, digital forensics, and IoT security**.
+- 🌱 Continuously learning and improving my technical and professional skills.
+- 🤝 Open to learning, collaboration, and opportunities that allow me to work with new technologies and solve real-world problems.
 
 ---
 
-### 📂 Projects
+## 🛠️ Technical Skills
 
-#### 🔐 Secure Data Encryption for IoT Devices  
-> *ESP32 | AES | Speck | Embedded C | Arduino IDE*  
-Designed a real-time encrypted data transmission system using lightweight cryptographic algorithms on constrained IoT hardware. Demonstrated secure communication using sensor data.
+### 💻 Programming & Development
+- Python
+- C
+- Embedded C
+- HTML
+- MySQL
 
-#### 🤖 Voice & Bluetooth Controlled Obstacle-Avoiding Robot  
-> *Arduino | Ultrasonic Sensor | C++ | Bluetooth Module*  
-Developed a smart robot capable of autonomous navigation and real-time control via voice and Bluetooth, enhancing interactive robotics learning.
+### 🔐 Cybersecurity
+- Network Security
+- Vulnerability Assessment & Penetration Testing
+- OWASP Top 10
+- Cryptography
+- IoT Security
+- Digital Forensics
+- Security Log Analysis
 
-#### 📧 Email Spoof Detection Tool  
-> *Python | Regex | SPF, DKIM, DMARC | Terminal UI*  
-Developed a command-line tool that analyzes email headers to detect spoofing attempts by checking SPF, DKIM, and DMARC fields.  
-Features colored terminal output, detailed mismatch detection, and real-world test cases for validation.  
-**Skills demonstrated**: Email security protocols, header parsing, regex, cybersecurity automation.
+### 🧰 Security & Technical Tools
+- Burp Suite
+- OWASP ZAP
+- Nmap
+- Nikto
+- Metasploit
+- Wireshark
+- Hydra
+- John the Ripper
+- Grafana
 
-#### 🌐 **Network Intrusion Detection System (NIDS) using Machine Learning**  
-> *Python | Scikit-learn | NSL-KDD Dataset | Random Forest | PCAP Analysis*  
-Built a machine learning-based intrusion detection system that trains on the NSL-KDD dataset to classify network traffic as normal or malicious.  
-The system can also process real `.pcapng` network captures to detect intrusions in real-time.  
-**Skills demonstrated**: ML model training, feature engineering, cybersecurity data analysis.
-
----
-
-### 📜 Certifications
-
-- 🛡️ **Cybersecurity** – JPMorgan Chase  
-- 🧠 **Ethical Hacking** – Cisco  
-- 🔐 **Google Cybersecurity Professional Certificate** – Coursera  
-- 🧮 **Data Structures & Algorithms** – CodeChef  
-- 🌐 **NPTEL** – The Joy of Computing Using Python *(Elite)*  
-- 📡 **NPTEL** – Introduction to IoT *(Elite + Silver)*  
-- ☁️ **ServiceNow Micro-Certification** – On-Demand Fundamentals
-
----
-
-### 🏆 Achievements & Highlights
-
-- 📝 Published research on **Machine Learning and Deep Learning Methods for Cybersecurity**  
-- 📄 Authored a paper on **Recent Developments in the Domain Name System**  
-- 💬 Participant – **Y20 Debate on Global Cybersecurity Threats**  
-- 🖥️ Attendee – **NVIDIA Webinar on AI, ML & Data Science**  
-- 💡 Finalist – **SAP State Hub Hackathon @ MITE**
+### 🖥️ Platforms & Development Tools
+- Windows
+- Ubuntu
+- Kali Linux
+- ESP32
+- Arduino
+- VS Code
+- GitHub
+- Arduino IDE
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Professional Experience
+
+### Technical Support – Operations
+**UnifyCX | Mangaluru, Karnataka**  
+**Aug 2026 – Present**
+
+- Provide technical support and troubleshoot customer and system-related issues.
+- Work within an operations environment while following established processes and procedures.
+- Collaborate with teams to resolve issues efficiently and maintain effective communication.
+- Gain practical experience in professional operations, technical support, and problem-solving.
+
+### SOC Analyst Intern
+**TerraEagle Technologies Pvt. Ltd.**  
+**Feb 2026 – Apr 2026**
+
+- Monitored and analyzed security logs to identify potential threats and suspicious activities.
+- Used Grafana for visualization and analysis of system activities.
+- Supported incident analysis and security reporting.
+
+### Cybercrime & Forensics Training
+**Karnataka State Police – Mangaluru**  
+**Aug 2025 – Sep 2025**
+
+- Gained practical exposure to evidence collection and handling.
+- Learned basic digital forensics and cybercrime investigation procedures.
+- Observed real-world law enforcement workflows related to cybercrime cases.
+
+---
+
+## 🚀 Featured Project
+
+### 🔐 Secure Data Encryption for IoT Devices Using Lightweight Cryptography
+
+**Technologies:** ESP32 | Embedded C | ASCON | Arduino IDE
+
+Designed and implemented a secure IoT data transmission system using lightweight cryptography on ESP32.
+
+- Integrated sensor data collection with real-time encryption.
+- Implemented ASCON-based encryption for resource-constrained IoT environments.
+- Focused on secure and efficient communication between IoT devices and a processing system.
+
+---
+
+## 📚 Other Projects
+
+### 🌐 Network Intrusion Detection System
+
+**Python | Scikit-learn | NSL-KDD | Random Forest | PCAP Analysis**
+
+Developed a machine-learning-based intrusion detection system for classifying network traffic as normal or malicious.
+
+### 📧 Email Spoof Detection Tool
+
+**Python | Regex | SPF | DKIM | DMARC**
+
+Developed a command-line tool for analyzing email headers and identifying potential spoofing attempts using email authentication protocols.
+
+### 🤖 Voice & Bluetooth Controlled Obstacle-Avoiding Robot
+
+**Arduino | C++ | Ultrasonic Sensor | Bluetooth**
+
+Developed an autonomous robot capable of obstacle detection and avoidance with Bluetooth and voice-based control.
+
+---
+
+## 🏆 Achievements & Activities
+
+- 📝 Published research on **Machine Learning and Deep Learning Methods for Cybersecurity**.
+- 📄 Published research on **Recent Developments in the Domain Name System**.
+- 🏆 Participated in national-level **Capture The Flag (CTF)** competitions.
+- 💡 Participated in **SAP State Hub Hackathon**.
+- 🛡️ Participated in **NITK Cybersecurity Boot Camp and CTF**.
+- 🔬 Participated in cybersecurity and technology-focused events and workshops.
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Professional Certificate – Coursera
+- Cybersecurity – JPMorgan Chase
+- Ethical Hacking – Cisco
+- NPTEL – Ethical Hacking
+- NPTEL – Introduction to IoT *(Elite + Silver)*
+- Data Structures & Algorithms – CodeChef
+- ServiceNow Micro-Certification – On-Demand Fundamentals
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihal0814&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -85,13 +167,18 @@ The system can also process real `.pcapng` network captures to detect intrusions
 
 ---
 
-### 📫 Let's Connect
+## 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nihalshetty0814)  
-- 🧑‍💻 [GitHub](https://github.com/nihal0814)  
-- 📬 Email: nihalshetty.0814@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/nihalshetty0814">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nihalshetty.0814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
----
-
-> *"Cybersecurity is much more than a matter of IT."* – Stephane Nappo  
-Let’s connect and secure the future together! 🚀
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
+```
