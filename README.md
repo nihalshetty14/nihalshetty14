@@ -158,15 +158,6 @@ Developed an autonomous robot capable of obstacle detection and avoidance with B
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihal0814&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal0814&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
